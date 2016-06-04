@@ -1,0 +1,16 @@
+white: #ffffff
+
+black: #0a0a0a
+lighter black: #2a2a2a
+
+gray: #505050
+
+
+darker green: #2a672c
+
+lighter green: #409d43
+
+
+darker yellow: #ffc200
+
+lighter yellow: 
